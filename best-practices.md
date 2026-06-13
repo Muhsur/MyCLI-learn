@@ -304,7 +304,6 @@ uname               # System info
 df                  # Disk usage
 ps                  # Running processes
 ```
-
-## Kesimpulan
-
-Efisiensi CLI datang dari practice dan pemahaman tools yang tersedia. Mulai dari command dasar, perlahan tingkatkan ke piping, scripting, dan automation. Safety adalah priority - selalu backup dan preview sebelum menjalankan commands destructive.
+---
+> [!CAUTION]
+> Efisiensi CLI datang dari practice dan pemahaman tools yang tersedia. Mulai dari command dasar, perlahan tingkatkan ke piping, scripting, dan automation. Safety adalah priority - selalu backup dan preview sebelum menjalankan commands destructive.
