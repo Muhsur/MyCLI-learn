@@ -234,7 +234,6 @@ which python                # Find Python
 where python
 where node
 ```
-
-## Kesimpulan
-
-Memahami shell yang digunakan adalah kunci untuk efektif menggunakan CLI. Setiap shell memiliki karakteristik, keuntungan, dan use case tersendiri. Pilih yang sesuai dengan sistem operasi dan kebutuhan Anda.
+---
+> [!NOTE]
+> Memahami shell yang digunakan adalah kunci untuk efektif menggunakan CLI. Setiap shell memiliki karakteristik, keuntungan, dan use case tersendiri. Pilih yang sesuai dengan sistem operasi dan kebutuhan Anda.
