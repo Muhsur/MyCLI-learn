@@ -94,6 +94,6 @@ dir     # Windows
 3. **Clear Screen**: Gunakan `clear` (Linux/Mac) atau `cls` (Windows)
 4. **Help Command**: Gunakan `--help` atau `/h` untuk melihat dokumentasi
 5. **Piping**: Gunakan `|` untuk menggabungkan beberapa perintah
-
 ----
-CLI adalah alat yang powerful untuk developer dan system administrator. Menguasai CLI akan meningkatkan produktivitas dan membuka banyak kemungkinan otomasi dalam pekerjaan sehari-hari.
+> [!NOTE]
+> CLI adalah alat yang powerful untuk developer dan system administrator. Menguasai CLI akan meningkatkan produktivitas dan membuka banyak kemungkinan otomasi dalam pekerjaan sehari-hari.
