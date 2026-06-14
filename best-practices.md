@@ -1,5 +1,12 @@
 # CLI Best Practices & Tips
 
+## Navigasi </>
+* **[readme](readme.md)** — Pengenalan CLI (Command Line Interface)
+* **[basic-concept](basic-concept.md)** — Konsep Dasar CLI
+* **[shell-and-os](shell-and-os.md)** — Shell & Sistem Operasi CLI
+* **[You're here](best-practices.md)** — CLI Best Practices & Tips
+* **[practical-examples.md](practical-examples.md)** — Contoh Praktis CLI
+  
 ## 1. Command Organization
 
 ### Gunakan Perintah yang Jelas
