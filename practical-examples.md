@@ -1,4 +1,10 @@
 # Contoh Praktis CLI
+## 🗺️ Navigasi <>
+* **[readme](readme.md)** — Pengenalan CLI (Command Line Interface)
+* **[basic-concept](basic-concept.md)** — Konsep Dasar CLI
+* **[shell-and-os](shell-and-os.md)** — Shell & Sistem Operasi CLI
+* **[best-practices](best-practices.md)** — CLI Best Practices & Tips
+* **[You're here](practical-examples.md)** — Contoh Praktis CLI
 
 ## 1. File & Folder Management
 
@@ -351,7 +357,6 @@ du -sh */ | sort -rh | head -10
 # Monitor file changes
 watch -n 1 'ls -la'
 ```
-
-## Kesimpulan
-
-Praktik langsung adalah cara terbaik untuk menguasai CLI. Mulai dengan perintah dasar, kemudian eksplorasi kombinasi commands yang lebih kompleks. Dokumentasikan workflow yang sering digunakan dan create scripts untuk automasi tasks repetitif.
+---
+> [!TIP]
+> Praktik langsung adalah cara terbaik untuk menguasai CLI. Mulai dengan perintah dasar, kemudian eksplorasi kombinasi commands yang lebih kompleks.
