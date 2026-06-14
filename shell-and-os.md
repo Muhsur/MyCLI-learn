@@ -1,5 +1,13 @@
 # Shell & Sistem Operasi CLI
 
+## Navigasi </>
+
+* **[readme](readme.md)** — Pengenalan CLI (Command Line Interface)
+* **[basic-concept](basic-concept.md)** — Konsep Dasar CLI
+* **[You're here](shell-and-os.md)** — Shell & Sistem Operasi CLI
+* **[best-practices](best-practices.md)** — CLI Best Practices & Tips
+* **[practical-examples.md](practical-examples.md)** — Contoh Praktis CLI
+  
 ## Apa itu Shell?
 
 Shell adalah program yang bertindak sebagai interpreter antara user dan operating system. Shell membaca perintah dari user, menginterpretasinya, dan menjalankan program sesuai perintah tersebut.
