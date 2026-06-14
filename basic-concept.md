@@ -1,5 +1,13 @@
 # Konsep Dasar CLI
 
+## Navigasi </>
+
+* **[readme](readme.md)** — Pengenalan CLI (Command Line Interface)
+* **[You're here](basic-concept.md)** — Konsep Dasar CLI
+* **[shell-and-os](shell-and-os.md)** — Shell & Sistem Operasi CLI
+* **[best-practices](best-practices.md)** — CLI Best Practices & Tips
+* **[practical-examples.md](practical-examples.md)** — Contoh Praktis CLI
+  
 ## 1. Command (Perintah)
 
 Command adalah instruksi dasar yang memberitahu sistem operasi untuk melakukan sesuatu.
